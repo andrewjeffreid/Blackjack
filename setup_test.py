@@ -1,4 +1,4 @@
-import setup_deck as deck
+import deck as deck
 
 # create poker_deck object with 52 cards
 poker_deck = deck.Deck()
